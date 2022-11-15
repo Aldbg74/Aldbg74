@@ -34,8 +34,7 @@ Nothing to see here (For now) <br>
 
 <h1>Programming Language</h1>
 
-<img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" width=10% height=10%>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width=10% height=10%>
+<img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" width=10% height=10%> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width=10% height=10%>
 
 <h1>Other</h1>
 <a href="https://www.linkedin.com/in/alexis-d-988bbb107/">My Linkedin</a>
