@@ -26,7 +26,7 @@ Computers aside, I like :
 
 <h1>Project ?</h1>
 
-Nothing to see here (For now) <br>
+- The 42 Backrooms ==> A Renpy visual novel about the 42 lyon backrooms
 
 <h1>IRL Spoken Language</h1>
 🇫🇷 French ! (Baguette 🥖) (Native Language) <br>
