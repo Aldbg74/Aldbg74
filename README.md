@@ -23,7 +23,8 @@ Computers aside, I like :
 
 - Video Games 🎮
 - Role play games 🎲
-- Reding 📘
+- Reading 📘
+- Airsoft 🔫
 - Long Walk Outside 🚶‍♂️(Yeah Dev go outside sometimes)
 
 
