@@ -48,10 +48,12 @@ Computers aside, I like :
 
 - <h4>Programing-related software used</h4>
 <img src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" alt="GitHub" width=5% height=5%><img src="https://grafikart.fr/uploads/icons/git.png" alt="Git" width=5% height=5%>
+<img src="https://help.apple.com/assets/61E89D604694F96BA04E7D79/61E89D614694F96BA04E7D80/fr_FR/d94aa1c4979b25e9ffbda97fcbae219a.png" alt="Terminal" width=5% height=5%>
+
 
 - <h4>Other Software</h4>
-<img src="https://camo.githubusercontent.com/1d58fcc772b862a9e1a39d95582a03723622e19fe151a71076e1f64044c9ec88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2e737667" alt="Trello" width=5% height=5%>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019–present%29.svg" alt="Office" width=5% height=5%>
+<img src="https://camo.githubusercontent.com/1d58fcc772b862a9e1a39d95582a03723622e19fe151a71076e1f64044c9ec88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2e737667" alt="Trello" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019–present%29.svg" alt="Office" width=5% height=5%>
+<img src="https://www.cefim.eu/wp-content/uploads/2014/03/reload.cefim.eu-mind-mapping-application-xmind-xmind-logo-768x277.png.webp" alt="Xmind" width=10% height=10%>
 
 <h1>OS</h1>
 <img src="https://camo.githubusercontent.com/592ee2c80662bacd8a8ece73d4fa0987aa6d72a7cfa7d4d0fa830ab261312c15/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6170706c652f6170706c652d6f726967696e616c2e737667" alt="Macos" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width=5% height=5%>
