@@ -29,6 +29,7 @@ Computers aside, I like :
 <h1>Project ?</h1>
 
 - The 42 Backrooms ==> A Renpy visual novel about the 42 lyon backrooms
+- GEMOT ==> Punishment generator
 
 <h1>IRL Spoken Language</h1>
 🇫🇷 French ! (Baguette 🥖) (Native Language) <br>
