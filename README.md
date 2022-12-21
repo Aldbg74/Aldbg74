@@ -1,6 +1,6 @@
 <h1>About me Alexis ✋ </h1>
 
-Hi ! <br>
+Hi everyone ! <br>
 
 - <h4>How i am ?</h4>
 I am Alexis, I am 21 years old at the time of writing these lines! <br>
