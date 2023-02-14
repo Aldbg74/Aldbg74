@@ -67,7 +67,7 @@ Computers aside, I like :
 
 
 <h1>Socials</h1>
-<a href="https://www.linkedin.com/in/alexis-d-988bbb107/">My Linkedin</a> <a href="https://aldbg74dev.wordpress.com">My Website</a>
+<a href="https://www.linkedin.com/in/alexis-d-988bbb107/">My Linkedin</a> <a href="alexisdrago.com">My Website</a>
 
 <!---
 Aldbg74/Aldbg74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
