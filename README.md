@@ -3,7 +3,7 @@
 Hi everyone ! <br>
 
 - <h4>How i am ?</h4>
-I am Alexis, 21 years old at the time of writing these lines! <br>
+I am Alexis, 22 years old at the time of writing these lines! <br>
 Novice in programming, I had initially studied in a design office (use of CAD software), before choosing to convert to IT, <br>
 (a field that has always plagued me) following the COVID pandemic. <br>
 
