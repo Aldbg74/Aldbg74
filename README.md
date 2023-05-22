@@ -12,8 +12,7 @@ I learn programing at my first "piscine" in the school 42 of Lyon. <br>
 I continue to learn thanks to the internet and the different books on the subject. <br>
 
 - <h4>What I would like in the future</h4>
-The big question, I would like to pass my 2nd "piscine" at 42 Lyon, and I will see later. <br>
-I would probably specialize in video games or cybersecurity (or maybe something else if I'm in love with it) <br>
+The big question, i would probably specialize in video games or cybersecurity (or maybe something else if I'm in love with it) <br>
 And I would really like to open my own company <br>
 
 - <h4>My hobbies</h4>
