@@ -53,7 +53,7 @@ Computers aside, I like :
 
 
 - <h4>Other Software</h4>
-<img src="https://camo.githubusercontent.com/1d58fcc772b862a9e1a39d95582a03723622e19fe151a71076e1f64044c9ec88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2e737667" alt="Trello" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019–present%29.svg" alt="Office" width=5% height=5%>
+<img src="https://camo.githubusercontent.com/1d58fcc772b862a9e1a39d95582a03723622e19fe151a71076e1f64044c9ec88/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7472656c6c6f2f7472656c6c6f2d706c61696e2e737667" alt="Trello" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013–2019%29.svg" alt="Office" width=5% height=5%>
 <img src="https://www.cefim.eu/wp-content/uploads/2014/03/reload.cefim.eu-mind-mapping-application-xmind-xmind-logo-768x277.png.webp" alt="Xmind" width=10% height=10%><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019–present%29.svg" alt="Project" width=5% height=5%>
 
 
