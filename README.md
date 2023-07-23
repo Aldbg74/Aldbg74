@@ -9,7 +9,7 @@ Novice in programming, I had initially studied in a design office (use of CAD so
 
 - <h4>How do i learn programming ?</h4>
 I learn programing at my first "piscine" in the school 42 of Lyon. <br>
-I continue to learn thanks to the internet and the different books on the subject. <br>
+I'm actually a futur Epitech Student <br>
 
 - <h4>What I would like in the future</h4>
 The big question, i would probably specialize in video games or cybersecurity (or maybe something else if I'm in love with it) <br>
