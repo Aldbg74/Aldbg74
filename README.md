@@ -33,6 +33,7 @@ Computers aside, I like :
 <h1>IRL Spoken Language</h1>
 🇫🇷 French ! (Baguette 🥖) (Native Language) <br>
 🇬🇧 English (My Tailor is rich !) (Level B2) <br>
+🇸🇪 Swedish (Actually Learning) <br>
 
 <h1>Programming Language</h1>
 
