@@ -1,5 +1,5 @@
 <h1>About me Alexis ✋ </h1>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/1920px-Epitech.png" alt="Epitech" width=30% height=30%>
 Hi everyone ! <br>
 
 - <h4>How i am ?</h4>
