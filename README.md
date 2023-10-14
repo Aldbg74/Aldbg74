@@ -19,7 +19,7 @@ Computers aside, I like :
 - Role play games 🎲
 - Reading 📘
 - Airsoft 🔫
-- Good Food
+- Good Food 🍔
 - Long Walk Outside 🚶‍♂️(Yeah Dev go outside sometimes)
 
 <h1>IRL Spoken Language</h1>
