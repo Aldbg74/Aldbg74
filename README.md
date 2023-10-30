@@ -23,8 +23,8 @@ Computers aside, I like :
 - Long Walk Outside 🚶‍♂️(Yeah Dev go outside sometimes)
 
 <h1>IRL Spoken Language</h1>
-🇫🇷 French ! (Baguette 🥖) (Native Language) <br>
-🇬🇧 English (My Tailor is rich !) (Level B1 750 TEPITECH) <br>
+🇫🇷 French ! (Baguette 🥖)  (Native Language) <br>
+🇬🇧 English (My Tailor is rich !)  (Level B1 750 TEPITECH) <br>
 🇸🇪 Swedish (Actually Learning) <br>
 
 <h1>Programming Language</h1>
