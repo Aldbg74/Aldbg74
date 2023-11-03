@@ -8,10 +8,6 @@ I had initially studied in a design office (use of CAD software), before choosin
 (a field that has always plagued me) following the COVID pandemic. <br>
 I'm actually a futur Epitech Student in Tek1 <br>
 
-- <h4>What I would like in the future</h4>
-The big question, i would probably specialize in video games or cybersecurity (or maybe something else if I'm in love with it) <br>
-And I would really like to open my own company <br>
-
 - <h4>My hobbies</h4>
 Computers aside, I like :
 
@@ -21,6 +17,10 @@ Computers aside, I like :
 - Airsoft 🔫
 - Good Food 🍔
 - Long Walk Outside 🚶‍♂️(Yeah Dev go outside sometimes)
+
+- <h4>What I would like in the future</h4>
+The big question, i would probably specialize in video games or cybersecurity (or maybe something else if I'm in love with it) <br>
+And I would really like to open my own company <br>
 
 <h1>IRL Spoken Language</h1>
 🇫🇷 French ! (Baguette 🥖)  (Native Language) <br>
