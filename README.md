@@ -27,6 +27,12 @@ Computers aside, I like :
 🇬🇧 English (My Tailor is rich !)  (Level B1 750 TEPITECH) <br>
 🇸🇪 Swedish (Actually Learning) <br>
 
+<h1>Github Stats</h1>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldbg74)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldbg74)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aldbg74)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1> What I'm currently working on ?</h1>
 - Epitech My_Printf Project
 
@@ -58,6 +64,8 @@ Computers aside, I like :
 
 <h1>OS</h1>
 <img src="https://camo.githubusercontent.com/592ee2c80662bacd8a8ece73d4fa0987aa6d72a7cfa7d4d0fa830ab261312c15/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6170706c652f6170706c652d6f726967696e616c2e737667" alt="Macos" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Windows" width=5% height=5%> 
+
+
 
 <!---
 Aldbg74/Aldbg74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
