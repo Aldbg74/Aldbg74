@@ -3,12 +3,13 @@ Hi everyone ! <br>
 
 - <h4>How i am ?</h4>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/1920px-Epitech.png" alt="Epitech" width=30% height=30%>
+
 I am Alexis, 22 years old at the time of writing these lines! <br>
 I had initially studied in a design office (use of CAD software), before choosing to convert to IT, <br>
 (a field that has always plagued me) following the COVID pandemic. <br>
 I'm actually a futur Epitech Student in Tek1 <br>
 
--<h4>What I would like in the future</h4>
+- <h4>What I would like in the future</h4>
 The big question, i would probably specialize in video games or cybersecurity (or maybe something else if I'm in love with it) <br>
 And I would really like to open my own company <br>
 
