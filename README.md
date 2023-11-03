@@ -31,7 +31,6 @@ Computers aside, I like :
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldbg74)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldbg74)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aldbg74)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1> What I'm currently working on ?</h1>
 - Epitech My_Printf Project
