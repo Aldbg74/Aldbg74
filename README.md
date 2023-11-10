@@ -29,7 +29,9 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Epitech My_Printf Project
+- Epitech My_ls
+- Epitech Setting Up
+- Epitech My_Hunter
 
 <h1>Programming Language</h1>
 
