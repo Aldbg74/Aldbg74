@@ -29,7 +29,7 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Epitech My_ls
+- Epitech My_Sokoban
 - Epitech Setting Up
 - Epitech My_Hunter
 
