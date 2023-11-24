@@ -54,7 +54,7 @@ Computers aside, I like :
 <img src="https://www.cefim.eu/wp-content/uploads/2014/03/reload.cefim.eu-mind-mapping-application-xmind-xmind-logo-768x277.png.webp" alt="Xmind" width=10% height=10%><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019–present%29.svg" alt="Project" width=5% height=5%>
 
 <h1>OS</h1>
-<img src="https://camo.githubusercontent.com/592ee2c80662bacd8a8ece73d4fa0987aa6d72a7cfa7d4d0fa830ab261312c15/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6170706c652f6170706c652d6f726967696e616c2e737667" alt="Macos" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Windows" width=5% height=5%> 
+<img src="https://camo.githubusercontent.com/592ee2c80662bacd8a8ece73d4fa0987aa6d72a7cfa7d4d0fa830ab261312c15/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6170706c652f6170706c652d6f726967696e616c2e737667" alt="Macos" width=5% height=5%><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width=5% height=5%><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Windows" width=5% height=5%><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width=5% height=5%><img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" width=5% height=5%> 
 
 
 <h1>Github Stats</h1>
