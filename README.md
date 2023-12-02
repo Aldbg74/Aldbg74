@@ -31,7 +31,7 @@ Computers aside, I like :
 
 - Epitech My_Sokoban
 - Epitech Organize
-- Epitech My_Hunter
+- Epitech My_Radar
 
 <h1>Programming Language</h1>
 
