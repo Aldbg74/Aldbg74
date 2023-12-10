@@ -29,7 +29,6 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Epitech My_Sokoban
 - Epitech Organize
 - Epitech My_Radar
 
