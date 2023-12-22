@@ -29,7 +29,6 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Epitech Organize
 - Epitech My_Radar
 
 <h1>Programming Language</h1>
