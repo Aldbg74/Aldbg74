@@ -30,6 +30,7 @@ Computers aside, I like :
 <h1> What I'm currently working on ?</h1>
 
 - Epitech My_Radar
+- Epitech Secured
 
 <h1>Programming Language</h1>
 
