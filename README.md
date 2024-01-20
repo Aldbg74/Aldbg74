@@ -31,7 +31,6 @@ Computers aside, I like :
 
 - Epitech Morpheus
 - Epitech Navy
-- Epitech Secured
 
 <h1>Programming Language</h1>
 
