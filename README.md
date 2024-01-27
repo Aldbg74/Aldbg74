@@ -30,7 +30,6 @@ Computers aside, I like :
 <h1> What I'm currently working on ?</h1>
 
 - Epitech Morpheus
-- Epitech Navy
 
 <h1>Programming Language</h1>
 
