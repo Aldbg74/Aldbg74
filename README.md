@@ -29,7 +29,7 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Doing BTTF
+- Epitech Minishell1
 
 <h1>Programming Language</h1>
 
