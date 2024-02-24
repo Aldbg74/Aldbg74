@@ -33,6 +33,7 @@ Computers aside, I like :
 - Epitech Popeye
 - Epitech 106Bombyx
 - Epitech Robot Factory
+- Epitech MyPaint
 
 <h1>Programming Language</h1>
 
