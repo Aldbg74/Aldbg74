@@ -29,8 +29,7 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Epitech Popeye
-- Epitech Robot Factory
+- Epitech Minishell3
 - Epitech MyPaint
 
 <h1>Programming Language</h1>
