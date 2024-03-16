@@ -29,9 +29,10 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Epitech Minishell3
-- Epitech 107transfer
-- Epitech MyPaint
+- Epitech Minishell2
+- Epitech Chocolatine
+- Epitech A-maze-d
+- Epitech 108trigo
 
 <h1>Programming Language</h1>
 
