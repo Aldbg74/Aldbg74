@@ -33,6 +33,7 @@ Computers aside, I like :
 - Epitech Chocolatine
 - Epitech A-maze-d
 - Epitech 108trigo
+- Epitech Burp
 
 <h1>Programming Language</h1>
 
