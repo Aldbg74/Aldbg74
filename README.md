@@ -32,6 +32,7 @@ Computers aside, I like :
 - Epitech Chocolatine
 - Epitech A-maze-d
 - Epitech Burp
+- Epitech need4seek
 
 <h1>Programming Language</h1>
 
