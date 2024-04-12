@@ -29,7 +29,6 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Epitech A-maze-d
 - Epitech need4seek
 
 <h1>Programming Language</h1>
