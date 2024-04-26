@@ -29,7 +29,7 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 
-- Epitech need4seek
+- Epitech Corewar
 - Epitech My_RPG
 
 <h1>Programming Language</h1>
