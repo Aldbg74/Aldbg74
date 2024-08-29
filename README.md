@@ -56,10 +56,13 @@ Computers aside, I like :
 
 
 <h1>OS</h1>
-<img src="https://cdn.prod.website-files.com/620ab0352873b0fd6f9428de/66467be0da27b14fe731a6dd_Apple-Icone.png" alt="Macos" width=5% height=5%>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width=5% height=5%>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width=5% height=5%>
-<img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" width=5% height=5%> 
+<div style="text-align: center;">
+    <img src="https://cdn.prod.website-files.com/620ab0352873b0fd6f9428de/66467be0da27b14fe731a6dd_Apple-Icone.png" alt="MacOS" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" width="5%" height="5%" style="display: inline-block;"/>
+</div>
+
 
 
 <h1>Github Stats</h1>
