@@ -48,8 +48,13 @@ Computers aside, I like :
 
 <!--- On part sur une base de "Titre principal pour les soft, et on fait un - h4 a chaque sous titre> Titre principal "Software" Et on detaille en petit groupe pour le reste. On refera un h1 pour les os --->
 
-- <h4>Programming software used</h4>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" width=5% height=5%><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width=5% height=5%><img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode" width=5% height=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="Clion" width=5% height=5%>
+- <h4>IDE used</h4>
+<div style="text-align: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="Clion" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VsCode" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode" width="5%" height="5%" style="display: inline-block;"/>
+</div>
 
 - <h4>Programing-related software used</h4>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1024px-Font_Awesome_5_brands_github.svg.png" alt="GitHub" width=5% height=5%><img src="https://grafikart.fr/uploads/icons/git.png" alt="Git" width=5% height=5%>
