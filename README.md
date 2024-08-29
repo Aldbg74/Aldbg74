@@ -56,7 +56,7 @@ Computers aside, I like :
 
 
 <h1>OS</h1>
-<img src="https://camo.githubusercontent.com/592ee2c80662bacd8a8ece73d4fa0987aa6d72a7cfa7d4d0fa830ab261312c15/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6170706c652f6170706c652d6f726967696e616c2e737667" alt="Macos" width=5% height=5%>
+<img src="https://cdn.prod.website-files.com/620ab0352873b0fd6f9428de/66467be0da27b14fe731a6dd_Apple-Icone.png" alt="Macos" width=5% height=5%>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="Windows" width=5% height=5%>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width=5% height=5%>
 <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" width=5% height=5%> 
