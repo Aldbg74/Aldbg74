@@ -36,8 +36,13 @@ Computers aside, I like :
 - {NOT FOUND NAME} Identity security system via blockchain <br>
 
 <h1>Programming Language</h1>
-
-<img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" width=10% height=10%> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width=10% height=10%> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width=10% height=10%> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren’Py_Logo_6-13-6_200x307px.png" alt="Renpy" width=10% height=10%> <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg?uselang=fr" alt="Markdown" width=10% height=10%>
+<div style="text-align: center;">
+    <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="C" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg?uselang=fr" alt="Markdown" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Ren’Py_Logo_6-13-6_200x307px.png" alt="Renpy" width="5%" height="5%" style="display: inline-block;"/>
+</div>
 
 <h1>Software</h1>
 
