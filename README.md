@@ -30,9 +30,9 @@ Computers aside, I like :
 🇸🇪 Actually Learning <br>
 
 <h1> What I'm currently working on ?</h1>
-- HandOs, arch-based OS offering a turnkey operating system solution for children with disabilities.
-- CanIEat, application to help people suffering from food allergies
-- {NOT FOUND NAME} Identity security system via blockchain
+- HandOs, arch-based OS offering a turnkey operating system solution for children with disabilities. <br>
+- CanIEat, application to help people suffering from food allergies <br>
+- {NOT FOUND NAME} Identity security system via blockchain <br>
 
 <h1>Programming Language</h1>
 
