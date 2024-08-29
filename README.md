@@ -7,10 +7,10 @@ Hi everyone ! <br>
 I am Alexis, 23 years old at the time of writing these lines! <br>
 I had initially studied in a design office (use of CAD software), before choosing to convert to IT, <br>
 (a field that has always plagued me) following the COVID pandemic. <br>
-I'm actually a Epitech Student in Tek1 <br>
+I'm actually a Epitech Student in Tek1 (Yes I'm redoing my tek1, it's a long story) <br>
 
 - <h4>What I would like in the future</h4>
-The big question, i would probably specialize in video games or cybersecurity (or maybe something else if I'm in love with it) <br>
+The big question, i would probably specialize in video games, cybersecurity, or DevOps (or maybe something else if I'm in love with it) <br>
 And I would really like to open my own company <br>
 
 - <h4>My hobbies</h4>
@@ -20,6 +20,7 @@ Computers aside, I like :
 - Role play games 🎲
 - Reading 📘
 - Airsoft 🔫
+- Bodybuilding 🏋️
 - Good Food 🍔
 - Long Walk Outside 🚶‍♂️(Yeah Dev go outside sometimes)
 
@@ -29,6 +30,9 @@ Computers aside, I like :
 🇸🇪 Actually Learning <br>
 
 <h1> What I'm currently working on ?</h1>
+- HandOs, arch-based OS offering a turnkey operating system solution for children with disabilities.
+- CanIEat, application to help people suffering from food allergies
+- {NOT FOUND NAME} Identity security system via blockchain
 
 <h1>Programming Language</h1>
 
