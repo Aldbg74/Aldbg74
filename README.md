@@ -57,15 +57,22 @@ Computers aside, I like :
     <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode" width="5%" height="5%" style="display: inline-block;"/>
 </div>
 
-- <h4>Programing-related software used</h4>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1024px-Font_Awesome_5_brands_github.svg.png" alt="GitHub" width=5% height=5%><img src="https://grafikart.fr/uploads/icons/git.png" alt="Git" width=5% height=5%>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" alt="Terminal" width=5% height=5%>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Github desktop" width=5% height=5%>
+- <h4>Related software used</h4>
+<div style="text-align: center;">
+    <img src="https://grafikart.fr/uploads/icons/git.png" alt="Git" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" alt="Terminal" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1024px-Font_Awesome_5_brands_github.svg.png" alt="Github" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Github desktop" alt="Github Desktop" width="5%" height="5%" style="display: inline-block;"/>
+</div>
 
 - <h4>Other Software</h4>
-<img src="https://www.leptidigital.fr/logiciels/wp-content/uploads/2022/12/logo-trello.jpg" alt="Trello" width=5% height=5%> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013–2019%29.svg" alt="Office" width=5% height=5%>
-<img src="https://www.cefim.eu/wp-content/uploads/2014/03/reload.cefim.eu-mind-mapping-application-xmind-xmind-logo-768x277.png.webp" alt="Xmind" width=10% height=10%><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019–present%29.svg" alt="Project" width=5% height=5%><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/langfr-1024px-Notion-logo.svg.png" alt="Notion" width=5% height=5%>
-
+<div style="text-align: center;">
+    <img src="https://www.leptidigital.fr/logiciels/wp-content/uploads/2022/12/logo-trello.jpg" alt="Trello" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013–2019%29.svg" alt="Office" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://www.cefim.eu/wp-content/uploads/2014/03/reload.cefim.eu-mind-mapping-application-xmind-xmind-logo-768x277.png.webp" alt="Xmind" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019–present%29.svg" alt="Microsoft Project" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/langfr-1024px-Notion-logo.svg.png" alt="Notion" width="5%" height="5%" style="display: inline-block;"/>
+</div>
 
 <h1>OS</h1>
 <div style="text-align: center;">
@@ -74,8 +81,6 @@ Computers aside, I like :
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="5%" height="5%" style="display: inline-block;"/>
     <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" alt="Arch" width="5%" height="5%" style="display: inline-block;"/>
 </div>
-
-
 
 <h1>Github Stats</h1>
 
