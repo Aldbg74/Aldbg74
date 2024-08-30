@@ -33,7 +33,8 @@ Computers aside, I like :
 <h1> What I'm currently working on ?</h1>
 - HandOs, arch-based OS offering a turnkey operating system solution for children with disabilities. <br>
 - CanIEat, application to help people suffering from food allergies <br>
-- {NOT FOUND NAME} Identity security system via blockchain <br>
+- {NOT FOUND NAME}, Identity security system via blockchain <br>
+- Clion_Autoload, refresh the makefile when a new file is created. <br>
 
 <h1>Programming Language</h1>
 <div style="text-align: center;">
