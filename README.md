@@ -65,11 +65,9 @@ Computers aside, I like :
 
 - <h4>Other Software</h4>
 <div style="text-align: center;">
-    <img src="https://www.leptidigital.fr/logiciels/wp-content/uploads/2022/12/logo-trello.jpg" alt="Trello" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013–2019%29.svg" alt="Office" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://www.cefim.eu/wp-content/uploads/2014/03/reload.cefim.eu-mind-mapping-application-xmind-xmind-logo-768x277.png.webp" alt="Xmind" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Project_%282019–present%29.svg" alt="Microsoft Project" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/langfr-1024px-Notion-logo.svg.png" alt="Notion" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office" width="15%" height="5%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="10%" height="5%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" width="10%" height="5%" style="display: inline-block;"/>
 </div>
 
 <h1>OS</h1>
