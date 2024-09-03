@@ -76,9 +76,9 @@ Computers aside, I like :
 
 <h1>OS</h1>
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOs" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOs" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" width="10%" height="10%" style="display: inline-block;"/>
 </div>
 
 <h1>Github Stats</h1>
