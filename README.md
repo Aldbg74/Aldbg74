@@ -38,9 +38,9 @@ Computers aside, I like :
 
 <h1>Programming Language</h1>
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" width="6%" height="10%" style="display: inline-block;"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="10%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="11%" height="10%" style="display: inline-block;"/>
 </div>
 
 <h1>Software</h1>
@@ -50,8 +50,8 @@ Computers aside, I like :
 - <h4>IDE used</h4>
 <div style="text-align: center;">
     <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="Clion" width="10%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim" width="10%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim" width="8%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode" width="9%" height="10%" style="display: inline-block;"/>
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" width="10%" height="10%" style="display: inline-block;"/>
 </div>
 
