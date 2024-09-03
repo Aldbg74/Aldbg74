@@ -41,6 +41,7 @@ Computers aside, I like :
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" width="6%" height="10%" style="display: inline-block;"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="10%" height="10%" style="display: inline-block;"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="11%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="15%" height="10%" style="display: inline-block;"/>
 </div>
 
 <h1>Software</h1>
@@ -57,10 +58,9 @@ Computers aside, I like :
 
 - <h4>Related software used</h4>
 <div style="text-align: center;">
-    <img src="https://grafikart.fr/uploads/icons/git.png" alt="Git" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" alt="Terminal" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/langfr-1024px-Font_Awesome_5_brands_github.svg.png" alt="Github" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" alt="Github desktop" alt="Github Desktop" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="7%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Terminal" width="8%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" width="10%" height="10%" style="display: inline-block;"/>
 </div>
 
 - <h4>Other Software</h4>
