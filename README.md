@@ -51,10 +51,10 @@ Computers aside, I like :
 
 - <h4>IDE used</h4>
 <div style="text-align: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Clion.svg/1200px-Clion.svg.png" alt="Clion" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/langfr-1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VsCode" width="5%" height="5%" style="display: inline-block;"/>
-    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="Xcode" width="5%" height="5%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="Clion" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VsCode" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" width="10%" height="10%" style="display: inline-block;"/>
 </div>
 
 - <h4>Related software used</h4>
@@ -79,6 +79,7 @@ Computers aside, I like :
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" width="10%" height="10%" style="display: inline-block;"/>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOs" width="10%" height="10%" style="display: inline-block;"/>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" width="10%" height="10%" style="display: inline-block;"/>
 </div>
 
 <h1>Github Stats</h1>
