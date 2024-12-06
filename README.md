@@ -39,9 +39,7 @@ Computers aside, I like :
 <h1>Programming Language</h1>
 <div style="text-align: center;">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" width="6%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="10%" height="10%" style="display: inline-block;"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="11%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" width="15%" height="10%" style="display: inline-block;"/>
 </div>
 
 <h1>Software</h1>
