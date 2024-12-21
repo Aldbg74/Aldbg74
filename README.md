@@ -33,7 +33,6 @@ Computers aside, I like :
 <h1> What I'm currently working on ?</h1>
 - HandOs, arch-based OS offering a turnkey operating system solution for children with disabilities. <br>
 - {NOT FOUND NAME}, Identity security system via blockchain <br>
-- {NO NAME}, Security stuff with a flipperzero <br>
 - Epicry, like WannaCry, but made by good guys
 
 <h1>Programming Language</h1>
