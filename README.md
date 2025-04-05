@@ -2,8 +2,6 @@
 Hi everyone ! <br>
 
 - <h4>How i am ?</h4>
-<img src="https://newsroom.ionis-group.com/wp-content/uploads/2023/09/EPI-LOGO-2023-QUADRI.png" alt="Epitech" width=30% height=30%>
-
 I am Alexis, 23 years old at the time of writing these lines! <br>
 I had initially studied in a design office (use of CAD software), before choosing to convert to IT, <br>
 (a field that has always plagued me) following the COVID pandemic. <br>
