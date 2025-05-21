@@ -2,7 +2,7 @@
 Hi everyone ! <br>
 
 - <h4>How i am ?</h4>
-I am Alexis, 23 years old at the time of writing these lines! <br>
+I am Alexis, 24 years old at the time of writing these lines! <br>
 I had initially studied in a design office (use of CAD software), before choosing to convert to IT, <br>
 (a field that has always plagued me) following the COVID pandemic. <br>
 I'm actually a Epitech Student in Tek1 (Yes I'm redoing my tek1, it's a long story) <br>
