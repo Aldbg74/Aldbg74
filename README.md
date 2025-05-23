@@ -36,10 +36,8 @@ Computers aside, I like :
 <div style="text-align: center;">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" width="6%" height="10%" style="display: inline-block;"/>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" width="11%" height="10%" style="display: inline-block;"/>
-    <img src="https://camo.githubusercontent.com/7100cd25f7ab8d4abdcb19f57caca9b02c5b9d50443ab4eac7d2b7467386cbc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7368656c6c5f7363726970742d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465" alt="Shell Script" width="11%" height="10%" style="display: inline-block;"/>
-    <img src="https://camo.githubusercontent.com/355de94ab2d1fdd2eab4a3fb29eb9c2e035a4fa80cbc32e9a1bddf155f58fd27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f79616d6c2d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d79616d6c266c6f676f436f6c6f723d313531353135" alt="Yaml" width="11%" height="10%" style="display: inline-block;"/>
-    <img src="https://camo.githubusercontent.com/d39f98e5f22de18187cdd6600398884869c8beb344b8b78ab34a685721cf8b1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676974687562253230616374696f6e732d2532333236373145352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562616374696f6e73266c6f676f436f6c6f723d7768697465" alt="Github Actions" width="11%" height="10%" style="display: inline-block;"/>
-    
+    <img src="https://camo.githubusercontent.com/7100cd25f7ab8d4abdcb19f57caca9b02c5b9d50443ab4eac7d2b7467386cbc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7368656c6c5f7363726970742d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465" alt="Shell Script" width="15%" height="15%" style="display: inline-block;"/>
+
 </div>
 
 <h1>Software</h1>
