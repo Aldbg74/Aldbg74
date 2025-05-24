@@ -30,7 +30,9 @@ Computers aside, I like :
 
 <h1> What I'm currently working on ?</h1>
 - Epicry, like WannaCry, but made by good guys <br>
-- Flipper_BLE_Crash, a plugin for Flipper for crash bluetooth things
+- Flipper_BLE_Crash, a plugin for Flipper for crash bluetooth things <br>
+- My_Antit_Virus, a small antivirus for linux <br>
+- EpiToolBox, a cyber toolboox tool for epitech student <br>
 
 <h1>Programming Language</h1>
 <div style="text-align: center;">
