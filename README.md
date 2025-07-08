@@ -54,10 +54,10 @@ Computers aside, I like :
 
 - <h4>Related software used</h4>
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="7%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Terminal" width="8%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" width="10%" height="10%" style="display: inline-block;"/>
-    <img src="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="7%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" alt="Terminal" width="8%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" width="10%" height="20%" style="display: inline-block;"/>
+    <img src="https://camo.githubusercontent.com/c9a85f6869aa992f1500dd9d4d4bdff7d405605292ca152587394c1f92552d4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" alt="Docker" width="15%" height="20%" style="display: inline-block;"/>
 </div>
 
 - <h4>Other Software</h4>
