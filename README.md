@@ -62,20 +62,20 @@ Computers aside, I like :
 
 - <h4>Other Software</h4>
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office" width="15%" height="5%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="10%" height="5%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" width="10%" height="5%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Indesign" width="16%" height="5%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Caneva" width="10%" height="5%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="Solidworks" width="15%" height="5%" style="display: inline-block;"/>  
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office" width="15%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" width="10%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" width="10%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="Indesign" width="16%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Caneva" width="10%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/solidworks-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="Solidworks" width="15%" height="20%" style="display: inline-block;"/>  
 </div>
 
 <h1>OS</h1>
 <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" width="10%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOs" width="10%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" width="10%" height="10%" style="display: inline-block;"/>
-    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" width="10%" height="10%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch" width="10%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOs" width="10%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" width="10%" height="20%" style="display: inline-block;"/>
+    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" width="10%" height="20%" style="display: inline-block;"/>
 </div>
 
 <h1>Github Stats</h1>
